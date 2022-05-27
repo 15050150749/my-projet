@@ -1,0 +1,8 @@
+.idea
+__pycache__
+venv
+*.xml
+*.iml
+.pytest_cache
+.DS_Store
+*.log
